@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MovieCard component > should render correctly 1`] = `"<a href=\\"#/\\" class=\\"router-link-active router-link-exact-active card\\" aria-current=\\"page\\"><img src=\\"https://m.media-amazon.com/images/M/MV5BNjA3NGExZDktNDlhZC00NjYyLTgwNmUtZWUzMDYwMTZjZWUyXkEyXkFqcGdeQXVyMTU1MDM3NDk0._V1_SX300.jpg\\" alt=\\"Movie\\"> Hello <span class=\\"card-name\\">Avatar</span></a>"`;
